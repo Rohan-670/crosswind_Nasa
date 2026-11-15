@@ -1,0 +1,101 @@
+# Space Center Realistic Materials
+
+newmtl Material_29
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 30.0
+d 1.0
+illum 2
+map_Kd SpaceCenter_Textures/SpaceCenter_Tex_0.jpg
+
+newmtl Material_22
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 30.0
+d 1.0
+illum 2
+map_Kd SpaceCenter_Textures/SpaceCenter_Tex_1.jpg
+
+newmtl Material_68
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 30.0
+d 1.0
+illum 2
+Kd 0.85 0.25 0.20
+
+newmtl Material_35
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 30.0
+d 1.0
+illum 2
+map_Kd SpaceCenter_Textures/SpaceCenter_Tex_2.jpg
+
+newmtl Nozzle_Ring
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 30.0
+d 1.0
+illum 2
+map_Kd SpaceCenter_Textures/SpaceCenter_Tex_3.png
+
+newmtl Nozzle
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 30.0
+d 1.0
+illum 2
+map_Kd SpaceCenter_Textures/SpaceCenter_Tex_4.png
+
+newmtl Booster
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 30.0
+d 1.0
+illum 2
+map_Kd SpaceCenter_Textures/SpaceCenter_Tex_5.png
+
+newmtl Side_Booster
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 30.0
+d 1.0
+illum 2
+map_Kd SpaceCenter_Textures/SpaceCenter_Tex_6.png
+
+newmtl Main_Stage
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 30.0
+d 1.0
+illum 2
+map_Kd SpaceCenter_Textures/SpaceCenter_Tex_7.png
+
+newmtl 2ndStage_Cover
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 30.0
+d 1.0
+illum 2
+bump SpaceCenter_Textures/SpaceCenter_Tex_8.png
+
+newmtl Faring
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 30.0
+d 1.0
+illum 2
+map_Kd SpaceCenter_Textures/SpaceCenter_Tex_9.png
+

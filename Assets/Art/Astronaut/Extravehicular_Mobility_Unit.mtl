@@ -1,0 +1,154 @@
+newmtl Mat_0_EMU_emusuit21_emusuit5_lambert2SG
+Kd 0.9300 0.9300 0.9300
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_1_EMU_emusuit21_blinn2SG
+Kd 0.6000 0.6000 0.6000
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_2_EMU_emusuit21_lambert2SG
+Kd 0.9300 0.9300 0.9300
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_3_EMU_emusuit21_jetpack2SG
+Kd 0.9500 0.9400 0.9300
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_4_EMU_initialShadingGroup
+Kd 0.5000 0.5000 0.5000
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_5_EMU_emusuit21_lambert5SG
+Kd 0.8600 0.8400 0.8400
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_6_EMU_emusuit21_emusuit5_jetpack2SG
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 64
+illum 2
+map_Kd Textures/emusuitFLAGpatch.png
+
+newmtl Mat_7_EMU_emusuit21_emusuit5_blinn2SG
+Kd 0.6000 0.6000 0.6000
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_8_EMU_emusuit21_emusuit5_lambert5SG
+Kd 0.4100 0.3000 0.2700
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_9_EMU_emusuit21_lambert4SG
+Kd 0.9400 0.1400 0.1600
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_10_EMU_emusuit21_emusuit4_justbody_lambert2SG
+Kd 0.9300 0.9300 0.9300
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_11_EMU_emusuit21_lambert7SG
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 64
+illum 2
+map_Kd Textures/emusuitbox4.png
+
+newmtl Mat_12_EMU_emusuit21_lambert11SG
+Kd 0.6700 0.4500 0.3800
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_13_EMU_emusuit21_emusuit4_justbody_blinn3SG
+Kd 0.6200 0.4800 0.1700
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_14_EMU_emusuit21_lambert10SG
+Kd 0.9200 0.9200 0.9200
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_15_EMU_emusuit21_blinn12SG
+Kd 0.7700 0.3600 0.1400
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_16_EMU_emusuit21_blinn3SG
+Kd 0.5000 0.3800 0.1400
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_17_EMU_emusuit21_blinn1SG
+Kd 0.6900 0.4200 0.2200
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_18_EMU_emusuit21_lambert3SG
+Kd 0.9200 0.7200 0.6600
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_19_EMU_emusuit21_body_lambert2SG
+Kd 0.8200 0.8300 0.9000
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_20_EMU_emusuit21_lambert8SG
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 64
+illum 2
+map_Kd Textures/emusuitvitruvianpatch.png
+
+newmtl Mat_21_EMU_emusuit21_lambert9SG
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 64
+illum 2
+map_Kd Textures/emusuitFLAGpatch.png
+
+newmtl Mat_22_EMU_emusuit21_emusuit5_lambert3SG
+Kd 0.7500 0.2600 0.1100
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_23_EMU_emusuit21_emusuit5_blinn3SG
+Kd 0.5000 0.3800 0.1400
+d 1.0000
+Ns 64
+illum 2
+
+newmtl Mat_24_EMU_emusuit21_emusuit5_blinn1SG
+Kd 0.6900 0.4200 0.2200
+d 1.0000
+Ns 64
+illum 2
+

@@ -1,0 +1,7 @@
+# NASA Earth Material
+newmtl Earth_NASA_Mat
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 30.0
+map_Kd ../NASA_Textures/earth_diff.png
+bump ../NASA_Textures/earth_norm.png

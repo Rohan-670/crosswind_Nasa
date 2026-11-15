@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b63312d3d4dcf24184c5ede93b53460, type: 3}
+  m_Name: Mission_03_Solar
+  m_EditorClassIdentifier: Assembly-CSharp::MissionDefinition
+  missionId: solar_orbit
+  destination: 
+  missionName: Solar Orbit Expedition
+  targetDestination: Sun (Observation Orbit)
+  estimatedDuration: 180 Days
+  description: Navigate a specialized heat-shielded spacecraft to a safe perihelion observation orbit. Collect heliophysics data, observe coronal mass ejections, and return safely to Earth. NEVER attempt to land on the Sun.
+  difficulty: 2
+  accentColor: {r: 1, g: 0.82, b: 0.15, a: 1}
+  previewImage: {fileID: 21300000, guid: 3a8df0932b92cf84c959502539bcd70d, type: 3}
+  objectives:
+  - Gravity assist burn into high-inclination solar orbit
+  - Maintain perihelion safe standoff distance (10 Solar Radii)
+  - "Strict safety rule: Solar observation only \u2014 never land on Sun"
+  - Deploy heat-shielded sensors into coronal magnetic loops
+  - Record solar wind telemetry and return crew to Earth
+  isPlayableNow: 0
+  targetSceneName: MissionPreparation
+  comingSoonNotice: 'SOLAR ORBIT EXPEDITION is undergoing thermal shield carbon-composite qualification.
+
+
+    NOTE: Per NASA mission protocols, this is strictly a safe orbital observation expedition. Landing on the Sun is physically impossible and prohibited by Mission Control.
+
+
+    Flight clearance will unlock in future ASTROBASE mission updates.'

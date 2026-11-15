@@ -1,0 +1,263 @@
+newmtl Mat_0_shut_bay_win_ins
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_1_shut_bay_win_sid
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_2_shut_bay_win_out
+Kd 0.0000 0.0000 0.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_3_shut_glass
+Kd 0.0000 0.0000 0.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_4_shut_bay
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+map_Kd Textures/baytile.jpg
+
+newmtl Mat_5_shut_bay_fwd
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_6_shut_bay_aft
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_7_shut_cam_cargo_l
+Kd 0.0000 0.0000 0.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_8_shut_cam_cargo
+Kd 0.7373 0.6275 0.2627
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_9_shut_handrails
+Kd 1.0000 0.7765 0.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_10_belly
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+map_Kd Textures/belly.jpg
+
+newmtl Mat_11_wingtop
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+map_Kd Textures/wingtop.jpg
+
+newmtl Mat_12_belly_flap
+Kd 0.3765 0.3765 0.3765
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_13_wing_flap_top
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+map_Kd Textures/wing-flap-top.jpg
+
+newmtl Mat_14_fusolage_aft_fla
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_15_fusolage_aft_eng
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+map_Kd Textures/fusolage-aft-engines.jpg
+
+newmtl Mat_16_nose_tip
+Kd 0.5098 0.5059 0.5608
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_17_nose_top
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+map_Kd Textures/tmptop.jpg
+
+newmtl Mat_18_side_stb
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+map_Kd Textures/side-stb.jpg
+
+newmtl Mat_19_side_prt
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+map_Kd Textures/side-prt.jpg
+
+newmtl Mat_20_bay_prt_wedges
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_21_bay_prt_evarail
+Kd 0.5020 0.5020 0.5020
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_22_bay_prt_doorlatc
+Kd 0.5020 0.5020 0.5020
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_23_bay_prt_edges
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_24_bay_stb_wedges
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_25_bay_stb_evarail
+Kd 0.5020 0.5020 0.5020
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_26_bay_stb_edges
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_27_bay_stb_doorlatc
+Kd 0.5020 0.5020 0.5020
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_28_RCS_aft_stb
+Kd 0.2627 0.2392 0.2392
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_29_RCS_aft_prt
+Kd 0.2627 0.2392 0.2392
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_30_OMS_pod_prt_back
+Kd 0.2510 0.2510 0.2510
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_31_OMS_pod_stb_back
+Kd 0.2510 0.2510 0.2510
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_32_OMS_pods_side
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_33_OMS_pod_stb
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+map_Kd Textures/OMS-pod-stb.jpg
+
+newmtl Mat_34_OMS_pod_prt
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+map_Kd Textures/OMS-pod-prt.jpg
+
+newmtl Mat_35_arrows_top
+Kd 0.8353 0.1686 0.1686
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_36_winodws_top_whi1
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_37_winodws_top_blac
+Kd 0.0000 0.0000 0.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_38_winodws_top_whit
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_39_winodws_top_whi2
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_40_cockpit_side
+Kd 0.3765 0.3765 0.3765
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_41_tail
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+map_Kd Textures/tail.jpg
+

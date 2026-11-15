@@ -1,0 +1,10 @@
+# Nexus Super Heavy Rocket MTL
+newmtl Nexus_SuperHeavy_Mat
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.400000 0.400000 0.400000
+Ns 45.000000
+d 1.000000
+illum 2
+map_Kd Textures/Nexus_BaseColor.jpg
+bump Textures/Nexus_Normal.png

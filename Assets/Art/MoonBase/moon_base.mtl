@@ -1,0 +1,75 @@
+newmtl Mat_0_Terrain
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+map_Kd Textures/texture_0.png
+
+newmtl Mat_1_DarkFrame
+Kd 0.0440 0.0510 0.0650
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_2_DomeGlass
+Kd 0.6870 0.8390 1.0000
+d 0.3500
+Ns 32
+illum 2
+
+newmtl Mat_3_MetalConnectors
+Kd 0.2620 0.3050 0.3710
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_4_ThermalInsulation
+Kd 0.8070 0.7380 0.6380
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_5_GoldFoil
+Kd 1.0000 0.8710 0.7230
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_6_AlloyPanels
+Kd 0.5780 0.6100 0.6580
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_7_SolarDecal
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+map_Kd Textures/texture_1.png
+
+newmtl Mat_8_NASALogo
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+Ns 32
+illum 2
+map_Kd Textures/texture_2.png
+
+newmtl Mat_9_WhiteHabitat
+Kd 0.7760 0.8070 0.8550
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_10_VisorDark
+Kd 0.0100 0.0100 0.0100
+d 1.0000
+Ns 32
+illum 2
+
+newmtl Mat_11_LunarRocks
+Kd 0.0800 0.0890 0.1050
+d 1.0000
+Ns 32
+illum 2
+

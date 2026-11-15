@@ -6,7 +6,32 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/OpeningStory.unity
+    guid: 04bd748d8b134b84a963c0779bb135e1
+  - enabled: 1
+    path: Assets/Scenes/MissionSelection.unity
+    guid: 90ced618c880bbe4393698cd7323f5f8
+  - enabled: 1
+    path: Assets/Scenes/MissionPreparation.unity
+    guid: 9582b8529d4b60346a6106a522c51595
+  - enabled: 1
+    path: Assets/Scenes/LaunchSequence.unity
+    guid: 385a848b314da14488b8b5036e80d20c
+  - enabled: 1
+    path: Assets/Scenes/SpacecraftFlight.unity
+    guid: fa2735263811cbf44bb141a0f5414ea6
+  - enabled: 1
+    path: Assets/Scenes/LunarLanding.unity
+    guid: e52fcdd23f7c3ad44802480bdd589ce6
+  - enabled: 1
+    path: Assets/Scenes/LunarExploration.unity
+    guid: 3f40cb18abaf9b24594d3067dc351769
+  - enabled: 1
+    path: Assets/Scenes/EarthReturnFlight.unity
+    guid: 5139483997b6e0548a8a90b1d3fe51cb
+  - enabled: 1
+    path: Assets/Scenes/MissionResults.unity
+    guid: e4f0208e7bf9a9645acd74ba52af8cc5
   m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
